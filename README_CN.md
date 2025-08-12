@@ -14,6 +14,9 @@ zsibot_model/
 ├── LICENSE
 ├── README.md
 ├── README_CN.md
-└── zsl-1/
+├── zsl-1/
     ├── urdf/            
-    └── meshes/          
+    └── meshes/
+└── zsl-1w/          
+    ├── urdf/            
+    └── meshes/

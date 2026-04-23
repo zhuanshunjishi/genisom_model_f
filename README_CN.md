@@ -5,7 +5,7 @@
 
 ## 简介
 
-本仓库提供 **ZsiBot** 机器人的 URDF 模型及对应的 Mesh 文件，供二次开发者用于 ROS / Gazebo / RViz 仿真和可视化。
+本仓库提供 **GENISOM AI 智身** 机器人的 URDF 模型及对应的 Mesh 文件，供二次开发者用于 ROS / Gazebo / RViz 仿真和可视化。
 
 ## 目录架构
 

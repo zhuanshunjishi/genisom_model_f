@@ -12,8 +12,8 @@ This repository provides URDF models and mesh files for **GENISOM AI** robots fo
 
 | Robot | URDF file | STL meshes |
 | --- | --- | --- |
-| Genisom L1 | [genisom_l1.urdf](Genisom%20L1/urdf/genisom_l1.urdf) | [meshes/](Genisom%20L1/meshes/) |
-| Genisom L1 EDU | [genisom_l1_edu.urdf](Genisom%20L1%20EDU/urdf/genisom_l1_edu.urdf) | [meshes/](Genisom%20L1%20EDU/meshes/) |
-| Genisom L1-W | [genisom_l1_w.urdf](Genisom%20L1-W/urdf/genisom_l1_w.urdf) | [meshes/](Genisom%20L1-W/meshes/) |
-| Genisom L1-W EDU | [genisom_l1_w_edu.urdf](Genisom%20L1-W%20EDU/urdf/genisom_l1_w_edu.urdf) | [meshes/](Genisom%20L1-W%20EDU/meshes/) |
-| Genisom M1 | [genisom_m1.urdf](Genisom%20M1/urdf/genisom_m1.urdf) | [meshes/](Genisom%20M1/meshes/) |
+| Genisom L1 | [genisom_l1.urdf](genisom_l1/urdf/genisom_l1.urdf) | [meshes/](genisom_l1/meshes/) |
+| Genisom L1 EDU | [genisom_l1_edu.urdf](genisom_l1_edu/urdf/genisom_l1_edu.urdf) | [meshes/](genisom_l1_edu/meshes/) |
+| Genisom L1-W | [genisom_l1_w.urdf](genisom_l1_w/urdf/genisom_l1_w.urdf) | [meshes/](genisom_l1_w/meshes/) |
+| Genisom L1-W EDU | [genisom_l1_w_edu.urdf](genisom_l1_w_edu/urdf/genisom_l1_w_edu.urdf) | [meshes/](genisom_l1_w_edu/meshes/) |
+| Genisom M1 | [genisom_m1.urdf](genisom_m1/urdf/genisom_m1.urdf) | [meshes/](genisom_m1/meshes/) |
